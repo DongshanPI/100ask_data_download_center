@@ -1,0 +1,30 @@
+.wy-nav-content {
+    max-width: 1920px !important;
+}
+
+.wy-nav-side {
+    max-width:110%;
+}
+
+.wy-menu.wy-menu-vertical {
+    max-width:110%;
+}
+
+
+.wy-side-nav-search {
+    background-color: #32a929;
+}
+
+.wy-side-nav-search>div.version {
+    color: #333;
+    display: none; /*replaced by dropdown*/
+}
+
+.home-img {
+    width:32%; 
+    transition: transform .3s ease-out;
+}
+
+.home-img:hover {
+    transform: translate(0, -10px);
+}
