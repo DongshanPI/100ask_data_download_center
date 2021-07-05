@@ -37,7 +37,7 @@
 配套视频教程下载
 ##########################
 
-- 【第4期】Android FrameWork HAL深度开发(2019年9月11日更新了193节)	 链接：https://eyun.baidu.com/s/3kWMzx5d 密码：askH
+- 【第4期】Android FrameWork HAL深度开发(2019年9月11日更新了193节)	 链接：https://pan.baidu.com/s/1v6YRgJUsHuvK2xhhOlHysA 密码：root
 - 【显示系统专题】韦东山Android显示系统专题视频	链接：https://eyun.baidu.com/s/3i7eKy2p 密码：askO
 - 【蓝牙专题】韦东山蓝牙专题视频	链接：https://eyun.baidu.com/s/3htfSb2G 密码：askM
 - 【音频专题】韦东山音频专题	链接：https://eyun.baidu.com/s/3dHnGatF 密码：askN	
