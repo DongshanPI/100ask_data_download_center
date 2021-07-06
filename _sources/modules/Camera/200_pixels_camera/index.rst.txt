@@ -21,8 +21,8 @@
 
 - 百问网所有模块资料下载
 
-  - 链接：https://eyun.baidu.com/s/3jJCrY6q
-  - 密码：ALLMOD
+  - 链接：https://pan.baidu.com/s/1r7FC1EFDXBMj3WffqhO4Yg
+  - 密码：root
 
 如何购买
 --------------------
