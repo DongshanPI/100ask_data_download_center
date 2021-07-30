@@ -24,7 +24,7 @@
 
 - Android FrameWork HAL深度开发
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://eyun.baidu.com/s/3mjAmeHM 密码：root
+  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1pASC1DcO7QyEB5s2QXrdKg  密码：root
   - 下载方式2：``微力同步``              `密钥`_：B3ANKT4LQHFUTASLL6VGQRPPRIF3KP56V52CPFR2NX77G3QHPZFFVHW
 
 .. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html  
