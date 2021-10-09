@@ -25,6 +25,7 @@
 ----------------------------------------
 
 - 使用git下载源码&文档
+
   - git教程：https://www.100ask.net/detail/p_5f85671be4b0e95a89c3c85f/6
   - 从git官网下载并安装Git Bash工具 : https://gitforwindows.org
   - 打开git bash，执行命令下载：
@@ -32,7 +33,10 @@
     - git clone https://e.coding.net/weidongshan/noos/cortexA7_windows_tools.git
     - git clone https://e.coding.net/weidongshan/noos/doc_and_source_for_mcu_mpu.git
 
-| 下载成功后，你会在 C:\Users 目录下，你自己的用户目录里，看到一个 "cortexA7_windows_tools" + "doc_and_source_for_mcu_mpu" 目录
+
+::
+
+   下载成功后，你会在 C:\Users 目录下，你自己的用户目录里，看到一个 "cortexA7_windows_tools" + "doc_and_source_for_mcu_mpu" 目录
 
 
 
