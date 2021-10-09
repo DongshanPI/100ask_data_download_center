@@ -28,7 +28,8 @@ JZ2440开发板资料下载
 
 .. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
 
-视频教程及源码下载
+
+配套资料源码下载
 ----------------------------------------
 
 - 韦东山设备树详解视频及源码
