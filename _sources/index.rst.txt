@@ -35,7 +35,6 @@
 .. toctree::
    :maxdepth: 2
    :caption: 百问网所有开发板
-   :titlesonly:
 
    boards/St/100ask_stm32f103/index 
    boards/St/100ask_stm32mp157_pro/index 
@@ -52,7 +51,6 @@
 .. toctree::
    :maxdepth: 2
    :caption: 百问网开发板所有模块配件
-   :titlesonly:
 
    modules/GeneralModule/expansion_board-general_modul/index
    modules/Lcd/100ask_imx6ull_7-inch_LCD/index
@@ -71,14 +69,12 @@
 .. toctree::
    :maxdepth: 2
    :caption: 百问网GUI教程
-   :titlesonly:
    
    gui/lvgl/100ask_lvgl
 
 .. toctree::
    :maxdepth: 2
    :caption: 百问网RTOS教程
-   :titlesonly:
    
    videos_tutorial/RTOS/RT-Thread_Smart/index
 
@@ -86,7 +82,6 @@
 .. toctree::
    :maxdepth: 2
    :caption: 百问网嵌入式Linux视频教程
-   :titlesonly:
 
    videos_tutorial/embedded_linux/harmony/index
    videos_tutorial/embedded_linux/MCU_RTOS_HW/index
@@ -102,7 +97,6 @@
 .. toctree::
    :maxdepth: 2
    :caption: 百问网Android视频教程
-   :titlesonly:
    
    videos_tutorial/android/phase4_android/index
    videos_tutorial/android/display/index
@@ -112,22 +106,19 @@
 .. toctree::
    :maxdepth: 2
    :caption: 百问网编程语言视频教程
-   :titlesonly:
-   
+
    videos_tutorial/programing_language/C++/index
    videos_tutorial/programing_language/java/index
    
 .. toctree::
    :maxdepth: 2
    :caption: 百问网直播历史
-   :titlesonly:
    
    videos_tutorial/100ask_live/100ask_live/index
 
 .. toctree::
    :maxdepth: 2
    :caption: 百问网开发工具
-   :titlesonly:
    
    tools/Software/BtsyncUserGuide/btsync_user_guide
    tools/Software/git/how_to_use_git
@@ -136,7 +127,6 @@
 .. toctree::
    :maxdepth: 2
    :caption: 百问网畅销书籍
-   :titlesonly:   
    
    books/Linux/ELADCM1/index
    books/Linux/ELADCM2/index
@@ -145,7 +135,6 @@
 .. toctree::
    :maxdepth: 2
    :caption: Release Notes
-   :titlesonly:
 
    ReleaseNotes/Video/100ask_Linux_Video_ReleaseNotes/index
    ReleaseNotes/Video/100ask_Noos_Video_ReleaseNotes/index
