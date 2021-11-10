@@ -30,7 +30,7 @@
 .. _2021-09-03 【公开课】韦东山：像学习Linux那样学习单片机:  https://www.100ask.net/detail/l_612cc0e6e4b092ac9838c34d/4
 .. _2021-09-19 【公开课】C语言提高篇(通过2个口决深入理解C语言):  https://www.100ask.net/detail/p_614ace88e4b0448bf65bdef6/6
 .. _2021-09-28 【公开课】面向对象思想编写单片机程序:  https://www.100ask.net/detail/p_6155d524e4b0dfaf7fa9734f/6
-.. _⭐【开营第一课】90天单片机RTOS实战训练营开班第一课，不忘初心，共同成长！(欢迎插班生):  https://www.100ask.net/detail/i_61416c4de4b0448bf659b2c4/1
+.. _⭐【开营第一课】90天单片机RTOS实战训练营开班第一课，不忘初心，共同成长！(欢迎插班生):  https://mp.weixin.qq.com/s/jeWJrOqNpFHXAzuJk6ZT9g
 
 
 直播资料获取入口
