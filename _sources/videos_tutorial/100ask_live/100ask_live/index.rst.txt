@@ -35,9 +35,15 @@
 
 直播资料获取入口
 --------------------
+- 百度云下载
 
-- 链接：https://eyun.baidu.com/s/3nxjvVnF 
-- 密码：ASKLive
+  - 链接：https://pan.baidu.com/s/1faagCYM2XSSickycsfojdg  
+  - 密码：root
+
+- git命令下载
+
+  - git clone https://e.coding.net/weidongshan/livestream/doc_and_source_for_livestream.git
+
 
 学习交流答疑
 --------------------
