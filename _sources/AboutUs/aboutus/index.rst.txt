@@ -12,10 +12,13 @@
   4. “ `论坛答疑`_ + `wiki`_ + qq群 + 邮箱 ”负责、永久的售后模式，确保你售后无忧
 
 
+
 .. _《嵌入式Linux应用开发完全手册》: https://baike.baidu.com/item/%E5%B5%8C%E5%85%A5%E5%BC%8FLinux%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C/6643795?fr=aladdin
 .. _韦东山嵌入式系列视频: https://www.100ask.net/index
 .. _论坛答疑: http://bbs.100ask.net
 .. _wiki: http://wiki.100ask.org/Mainpage
+
+
 
 联系方式
 ========

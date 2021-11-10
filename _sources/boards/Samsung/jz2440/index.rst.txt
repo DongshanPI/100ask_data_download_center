@@ -21,7 +21,7 @@
 
 - JZ2440资料光盘
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://eyun.baidu.com/s/3jKh0jNC  密码：askB
+  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1tNNbnPdrz5BK8sfORTUm1g  密码： root
   - 下载方式2：``微力同步``   :download:`密钥<>`：B3AMCCZ4QGAZYRCTARUJTMYDGKCB4SSKXB4A35RUC2XOH2HYS5WBD2Q
 
 配套视频教程在线学习

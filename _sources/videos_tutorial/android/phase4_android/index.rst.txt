@@ -32,18 +32,18 @@
 
 - 韦东山Android显示系统专题视频
 
-  - 链接：https://eyun.baidu.com/s/3i7eKy2p
-  - 密码：askO
+  - 链接： https://pan.baidu.com/s/1_9XKgHRXdn1WaxmUwc17Dw
+  - 密码： root
   
 - 韦东山Android蓝牙专题视频
 
-  - 链接：https://eyun.baidu.com/s/3pMSwNKB 
-  - 密码：SSm9
+  - 链接： https://pan.baidu.com/s/1glJ2BPfNNLtPEuLBojhPEA
+  - 密码： root
   
 - 韦东山Android音频专题
 
-  - 链接：https://eyun.baidu.com/s/3dG5GCPN
-  - 密码：A65a
+  - 链接： https://pan.baidu.com/s/1FNsInmeVze2G6yq9tpZyDA
+  - 密码： root
 
 视频教程在线学习
 ----------------------------------------

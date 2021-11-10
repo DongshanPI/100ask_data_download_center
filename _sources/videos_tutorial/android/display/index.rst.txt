@@ -7,22 +7,22 @@
 
 - 韦东山Android显示系统专题视频
 
-  - 链接：https://eyun.baidu.com/s/3i7eKy2p
-  - 密码：askO
+  - 链接： https://pan.baidu.com/s/1_9XKgHRXdn1WaxmUwc17Dw
+  - 密码： root
 
 视频教程在线学习
 --------------------
 
-&emsp;&emsp;百问网在线教学平台(可试看)：<br>
+百问网在线教学平台(可试看)：
 -  韦东山Android显示系统专题视频： https://www.100ask.net/detail/p_5e6771bf462b8_EonKNAcU/8
 
 如何购买视频
 --------------------
 
-下载或者在线观看视频，需要购买才能观看哦！<br>
+下载或者在线观看视频，需要购买才能观看哦！
 - 百问网官方淘宝店：https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18944745104.12.6e777bc19NECQh&id=602303557335
 
-&emsp;&emsp;百问网官方商城：<br>
+百问网官方商城：
 -  韦东山Android显示系统专题视频：https://www.100ask.net/detail/p_5e6771bf462b8_EonKNAcU/8
 
 教程配套开发板

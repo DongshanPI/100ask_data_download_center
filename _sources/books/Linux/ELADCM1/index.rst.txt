@@ -11,8 +11,8 @@
 
 - 嵌入式Linux系统开发完全手册第一版：
 
-  - 链接：https://eyun.baidu.com/s/3ggQBqPt
-  - 密码：askD
+  - 链接： https://pan.baidu.com/s/1eR9VV6LatXNXV1OMfngl6w
+  - 密码： root
 
 在线学习平台
 --------------------

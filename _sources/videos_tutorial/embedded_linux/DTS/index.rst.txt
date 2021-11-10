@@ -23,7 +23,7 @@
 JZ2440开发板资料下载
 --------------------
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://eyun.baidu.com/s/3jKh0jNC  密码：askB
+  - 下载方式1：``百度云网盘`` :download:`链接<>`： https://pan.baidu.com/s/1tNNbnPdrz5BK8sfORTUm1g  密码： root
   - 下载方式2：``微力同步``              `密钥`_：B3AMCCZ4QGAZYRCTARUJTMYDGKCB4SSKXB4A35RUC2XOH2HYS5WBD2Q
 
 .. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
@@ -34,7 +34,7 @@ JZ2440开发板资料下载
 
 - 韦东山设备树详解视频及源码
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://eyun.baidu.com/s/3duXyDS  密码：askL
+  - 下载方式1：``百度云网盘`` :download:`链接<>`： https://pan.baidu.com/s/1O47vmxoGCJkxqgnCwey4Jw  密码： root
   - 下载方式2：``微力同步``              `密钥`_：B3AMMYR2UE5EKW6IDOUTTTVYN3YUGECAYIDROWKT3H7IQZMRYIWWZOK
 
 .. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html

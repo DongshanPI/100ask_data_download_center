@@ -19,8 +19,8 @@
 
 - SPI模块配套资料
 
-  - 链接：https://eyun.baidu.com/s/3kVYuvHH
-  - 密码：askK
+  - 链接： https://pan.baidu.com/s/1S-xL6lC4ZP9PnjnkXiIegw
+  - 密码： root
 
 如何购买
 --------------------

@@ -27,18 +27,18 @@
 
 - 百问网所有模块资料下载
 
-  - 链接：https://eyun.baidu.com/s/3jJCrY6q
-  - 密码：ALLMOD
+  - 链接： https://pan.baidu.com/s/1r7FC1EFDXBMj3WffqhO4Yg
+  - 密码： root
  
 - WIFI无线网卡
 
-  - 链接：https://eyun.baidu.com/s/3dGX0Pmp
-  - 密码：askV
+  - 链接： https://pan.baidu.com/s/1D-Yqj-AM8vaM2G483V9jsg
+  - 密码： root
  
 - AMCAP等工具
 
-  - 链接：https://eyun.baidu.com/s/3nwaYgGT
-  - 密码：askW
+  - 链接： https://pan.baidu.com/s/1SlLjPO2dwDLkPeeaRPxZ4g
+  - 密码： root
 
 3. 配套视频教程
 ##########################

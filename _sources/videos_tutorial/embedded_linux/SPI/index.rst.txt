@@ -5,17 +5,16 @@
 JZ2440开发板资料下载
 --------------------
 
-- 链接：https://eyun.baidu.com/s/3jKh0jNC
-
-  - 密码：askB
+ - 链接： https://pan.baidu.com/s/1tNNbnPdrz5BK8sfORTUm1g
+ - 密码： root
   
 配套资料源码下载
 ----------------------------------------
 
 - SPI专题视频及源码	
 
-  - 链接：https://eyun.baidu.com/s/3kVYuvHH
-  - 密码：askK
+  - 链接： https://pan.baidu.com/s/1GlzB-W_nf3AqO0wDfvniog
+  - 密码： root
 
 视频教程在线学习
 --------------------
@@ -25,7 +24,7 @@ JZ2440开发板资料下载
 如何购买视频
 --------------------
 
-下载或者在线观看视频，需要购买才能观看哦！<br>
+下载或者在线观看视频，需要购买才能观看哦！
 - 百问网官方淘宝店： https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18944745104.16.16cd5d1fEdzqY2&id=553768615773
 - 百问网官方商城：   https://www.100ask.net/detail/p_5e61b5529a557_zg1QvqIA/8
 

@@ -25,7 +25,7 @@
 
 - 韦东山Android音频专题
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://eyun.baidu.com/s/3dG5GCPN  密码：A65a
+  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1FNsInmeVze2G6yq9tpZyDA  密码： root
   - 下载方式2：``微力同步``              `密钥`_：B3AM546VERZ7ZQUSCVHNHJIFWB6DIHDBJDP3HZQSKMRFA4B23YUY22G
 
 .. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
