@@ -27,6 +27,12 @@
 .. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
 
 -----------
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 百问网直播历史
+   
+   videos_tutorial/100ask_live/100ask_live/index
    
 .. toctree::
    :maxdepth: 2
@@ -105,12 +111,6 @@
 
    videos_tutorial/programing_language/C++/index
    videos_tutorial/programing_language/java/index
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: 百问网直播历史
-   
-   videos_tutorial/100ask_live/100ask_live/index
 
 .. toctree::
    :maxdepth: 2
