@@ -25,7 +25,7 @@
 
 - 韦东山C++入门视频
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://eyun.baidu.com/s/3qZIRwh2  密码：askP
+  - 下载方式1：``百度云网盘`` :download:`链接<>`： https://pan.baidu.com/s/1u2ExE-YCcygJAa3WUEgkHg  密码： root
   - 下载方式2：``微力同步``              `密钥`_：B3AK45JGEQ5E6DNC7LM2YQJCWZUQXDMJZLZNVVSRBQWSU53227BVUEG
 
 .. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html

@@ -5,8 +5,8 @@
 JZ2440开发板资料下载
 --------------------
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://eyun.baidu.com/s/3jKh0jNC  密码：askB
-  - 下载方式2：``微力同步``              `密钥`_：B3AMCCZ4QGAZYRCTARUJTMYDGKCB4SSKXB4A35RUC2XOH2HYS5WBD2Q
+  - 下载方式1：``百度云网盘`` :download:`链接<>`： https://pan.baidu.com/s/1tNNbnPdrz5BK8sfORTUm1g  密码： root
+  - 下载方式2：``微力同步``              `密钥`_： B3AMCCZ4QGAZYRCTARUJTMYDGKCB4SSKXB4A35RUC2XOH2HYS5WBD2Q
 
 .. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
   
@@ -15,8 +15,8 @@ JZ2440开发板资料下载
 
 - 1、2衔接资料源码
 	
-  - 链接：https://eyun.baidu.com/s/3kWIv3EZ
-  - 密码：askI
+  - 链接： https://pan.baidu.com/s/11DbT4e3vmq9idVNKO58n-w 
+  - 密码： root
 	
 视频教程免费在线学习
 --------------------

@@ -26,7 +26,7 @@
 - 韦东山 Java入门视频
 
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`：https://eyun.baidu.com/s/3mjrpmRI  密码：askQ
+  - 下载方式1：``百度云网盘`` :download:`链接<>`： https://pan.baidu.com/s/1QuQPTkJchgKO6EayXRxsng  密码： root
   - 下载方式2：``微力同步``              `密钥`_：B3ALDJY2UDOGLKNBNSMEJ4ODWK2HS26MNVXDT53QXRIU7UTJRVOCGKE
 
 .. _密钥: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
