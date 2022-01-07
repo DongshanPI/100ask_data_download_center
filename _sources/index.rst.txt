@@ -38,7 +38,8 @@
    :maxdepth: 2
    :caption: 百问网所有开发板
 
-   boards/St/100ask_stm32f103/index 
+   boards/St/100ask_stm32f103_mini/index 
+   boards/St/100ask_stm32f103_Pro/index 
    boards/St/100ask_stm32mp157_pro/index 
    boards/Nxp/100ask_imx6ull_pro/index
    boards/Nxp/100ask_imx6ull_mini/index
