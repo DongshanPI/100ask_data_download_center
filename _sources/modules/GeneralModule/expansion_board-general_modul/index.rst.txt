@@ -21,11 +21,7 @@
 - HC-SR04超声波测距+线
 - HC-SR501人体红外+线
 - GPS模块+线
-- `FPC转接板`_
 
-> `FPC转接板`_可以让您的开发板兼容使用正点原子、野火LCD RGB屏幕(下任意单备注免费赠送)
-
-.. _FPC转接板: http://wiki.100ask.org/How_to_use_fpc_adapter_board
 
 兼容开发板
 --------------------
