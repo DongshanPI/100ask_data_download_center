@@ -43,17 +43,17 @@
   `100ASK_STM32F103_mini 开发板实物图背面`_
 
 
-.. 100ASK_STM32F103_mini 开发板实物图正面: https://item.taobao.com
-.. 100ASK_STM32F103_mini 开发板实物图背面: https://item.taobao.com
+.. 100ASK_STM32F103_mini 开发板实物图正面: https://item.taobao.com/item.htm?&id=666802425625
+.. 100ASK_STM32F103_mini 开发板实物图背面: https://item.taobao.com/item.htm?&id=666802425625
 
 4. 购买方式
 ##########################
 
 - 开发板：
 
-  - 天猫： TODO
+  - 天猫： https://item.taobao.com/item.htm?&id=666802425625
   
-  - 淘宝： TODO
+  - 淘宝： https://item.taobao.com/item.htm?&id=666802425625
 
 - 视频：
 
