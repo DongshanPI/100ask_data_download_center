@@ -29,7 +29,6 @@
 
   - 下载方式1：``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1sYAQ23MTNSHYW6VNc8_2pw   密码：root
   - 下载方式2：``微力同步``              `复制密钥在微力同步APP使用`_：B3AMFQSITKWO4Z7TE7EKA5BEXGPOBUIKNZ3V6A5L66TQQPKXZSA5QY2
-  - 下载方式3：``阿里云盘``   :download:`链接<>`：https://www.aliyundrive.com/s/CfPZjR7pwf6
 
 .. _复制密钥在微力同步APP使用: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html  
  
