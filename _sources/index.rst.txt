@@ -33,6 +33,7 @@
    :caption: 百问网直播历史
    
    videos_tutorial/100ask_live/100ask_live/index
+   videos_tutorial/100ask_live/100ask_live_prj/index
    
 .. toctree::
    :maxdepth: 2
