@@ -1,8 +1,23 @@
-====================
+=======================
 🎓百问网单片机/Linux项目
-====================
+=======================
+
+- `智能家居毕业设计项目之MQTT`_
 
 
+.. _智能家居毕业设计项目之MQTT: https://www.100ask.net
+
+
+直播资料获取入口
+--------------------
+- 百度云下载
+
+  - 链接：TODO
+  - 密码：root
+
+- git命令下载
+
+  - git clone https://e.coding.net/weidongshan/projects/doc_and_source_for_projects.git
 
 
 学习交流答疑
