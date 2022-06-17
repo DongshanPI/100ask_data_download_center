@@ -72,7 +72,7 @@
    
   `100ASK_STM32F103_Pro 开发板实物图正面`_
   
-.. _100ASK_STM32F103_Pro 开发板实物图正面: https://item.taobao.com/item.htm?id=638072392313
+.. _100ASK_STM32F103_Pro 开发板实物图正面: https://item.taobao.com/item.htm?id=676044382014
 
 
 4. 购买方式
@@ -82,7 +82,7 @@
 
   - 天猫：https://detail.tmall.com/item.htm?id=638105716849
   
-  - 淘宝：https://item.taobao.com/item.htm?id=638072392313
+  - 淘宝：https://item.taobao.com/item.htm?id=676044382014
 
 - 视频：
 
