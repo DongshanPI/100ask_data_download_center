@@ -15,12 +15,14 @@
 导学
 =========================
 
+- `⭐⭐GIT仓库下载临时办法`_
 - `⭐视频介绍与导学(新同学请先点击这里)`_
 - `微力同步使用教程`_
 - `GIT下载简明教程`_
 - `百度网盘方式下载资料教程`_
 
 
+.. _⭐⭐GIT仓库下载临时办法: https://forums.100ask.net/t/topic/316
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
 .. _微力同步使用教程: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html  
 .. _GIT下载简明教程: http://download.100ask.org/tools/Software/git/how_to_use_git.html
