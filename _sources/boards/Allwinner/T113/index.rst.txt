@@ -46,11 +46,11 @@
 
 - 100ASK_T113_Pro开发板主图如下所示
 
-.. _pic_major_100ASK_IMX6ULL_PRO:
+.. _pic_major_100ASK_T113_Pro:
 
 .. figure:: https://gd4.alicdn.com/imgextra/i1/41044833/O1CN01PsYQji1lZYx18Funo_!!41044833.png
    
-	100ASK_IMX6ULL_PRO 开发板实物图正面
+	100ASK_T113_Pro 开发板实物图正面
 
 
 4. 购买方式
@@ -64,11 +64,11 @@
 
 - 视频：
 
-  - 淘宝：http://100ask.taoboa.com
+  - 淘宝：https://100ask.taoboa.com
   
-  - 天猫：http://weidongshan.tmall.com
+  - 天猫：https://weidongshan.tmall.com
   
-  - 官网：http://www.100ask.net
+  - 官网：https://www.100ask.net
   
   - 微信小程序或APP学习
   
