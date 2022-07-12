@@ -31,10 +31,10 @@
 
 - 视频教程：
   
-  - ``100ASK_T113`` LVGL入门教程
+  - ``100ASK_T113`` LVGL入门教程+进阶项目教程
   
-    - 在线学习方式1： https://www.100ask.net/detail/p_61c5a317e4b0cca4a4e8b6f1/6
-    - 在线学习方式2： https://www.bilibili.com/video/BV1Ya411r7K2
+    - 在线学习方式1： https://www.100ask.net/detail/p_62c80f1ae4b050af239987e4/6
+    - 在线学习方式2： https://www.bilibili.com/video/BV1a94y1X7gP
 
   - LVGL通用基础教程：
 
