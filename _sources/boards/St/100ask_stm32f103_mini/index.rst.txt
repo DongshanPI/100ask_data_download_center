@@ -21,9 +21,7 @@
 
 - 开发板配套资料
 
-  - 下载方式1：``百度云网盘`` :download:`链接<>`： https://pan.baidu.com/s/1JRu2zGWpqbtE7UkWWG19-Q  密码： mini
-
-
+  - ``百度云网盘`` :download:`链接<>`： https://pan.baidu.com/s/1JRu2zGWpqbtE7UkWWG19-Q  密码： mini
 
 3. 产品图片
 ##########################

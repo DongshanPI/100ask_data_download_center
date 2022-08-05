@@ -11,7 +11,6 @@
 
 
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
-.. _微力同步使用教程: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
 .. _GIT下载简明教程: http://download.100ask.org/tools/Software/git/how_to_use_git.html
 .. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
 
@@ -28,10 +27,7 @@
 
 - 开发板配套资料：
 
-  - 下载方式1：``百度网盘`` 链接：https://pan.baidu.com/s/1SWI8OuVBiKn9hhTl7XtXtA 密码：root
-  - 下载方式2：``微力同步``              `复制密钥在微力同步APP使用`_：B3ALI5KD3FISS242C2HYHQ5EIOZVUS4I3GD2VUMCOLMN3YF2O6SGWMW
-
-.. _复制密钥在微力同步APP使用: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
+  - ``百度网盘`` 链接：https://pan.baidu.com/s/1SWI8OuVBiKn9hhTl7XtXtA 密码：root
 
 2.2 在线视频与配套资料(入门)：``全系列Linux教程``
 ****************************************************
