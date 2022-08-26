@@ -141,8 +141,8 @@
   
   - ``100ASK_STM32MP157`` LVGL入门教程+进阶项目教程
   
-    - 在线学习方式1： TODO
-    - 在线学习方式2： TODO
+    - 在线学习方式1： https://www.100ask.net/detail/p_6308a327e4b0a51fef128215/6
+    - 在线学习方式2： https://www.bilibili.com/video/BV1r14y1x7vk
 
   - LVGL通用基础教程：
 

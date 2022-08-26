@@ -159,8 +159,8 @@
   
   - ``100ASK_IMX6ULL`` LVGL入门教程+进阶项目教程
   
-    - 在线学习方式1： https://www.bilibili.com/video/BV1Xa41197uh
-    - 在线学习方式2： TODO
+    - 在线学习方式1： https://www.100ask.net/detail/p_6308a2e2e4b00a4f373942b0/6
+    - 在线学习方式2： https://www.bilibili.com/video/BV1Xa41197uh
 
   - LVGL通用基础教程：
 
