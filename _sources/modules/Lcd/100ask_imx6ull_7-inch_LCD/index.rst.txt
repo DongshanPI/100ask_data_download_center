@@ -37,8 +37,8 @@
 学习交流答疑
 --------------------
 
-- 百问网答疑论坛：http://bbs.100ask.net
-- 百问网官方wiki：http://wiki.100ask.org]
+- 百问网答疑交流社区：https://forums.100ask.net
+- 百问网官方wiki：http://wiki.100ask.org
 - 学习交流微信群：http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4
 - 学习交流QQ群：  http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4
 

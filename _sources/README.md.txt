@@ -51,7 +51,7 @@
 
 # 联系我们
 - 百问网官方wiki：[http://wiki.100ask.org](http://wiki.100ask.org)
-- 百问网官方论坛：[http://bbs.100ask.net](http://bbs.100ask.net)
+- 百问网官方交流社区：https://forums.100ask.net
 - 百问网官网：[http://www.100ask.net](http://www.100ask.net)
 - 微信公众号：百问科技
 - CSDN：[韦东山](https://edu.csdn.net/lecturer/90)

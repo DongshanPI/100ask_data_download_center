@@ -4,21 +4,17 @@
 :: 
    
    这里是韦东山(百问网)官方视频&文档&源码百度盘下载总入口；
-   1.百度云盘下载方式，非百度云盘vip用户下载有速度限制；
-   2.微力同步使用p2p文件传输协议，使用的人越多下载速度越快，理论上可以达到下行带宽峰值，推荐使用。
+   百度云盘下载方式，非百度云盘vip用户下载有速度限制；
    祝同学们学习愉快顺利！
    
 
 导学
 =========================
 
-- `⭐⭐GIT仓库下载临时办法`_
 - `⭐视频介绍与导学(新同学请先点击这里)`_
 - `GIT下载简明教程`_
 - `百度网盘方式下载资料教程`_
 
-
-.. _⭐⭐GIT仓库下载临时办法: https://forums.100ask.net/t/topic/316
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
 .. _GIT下载简明教程: http://download.100ask.org/tools/Software/git/how_to_use_git.html
 .. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B

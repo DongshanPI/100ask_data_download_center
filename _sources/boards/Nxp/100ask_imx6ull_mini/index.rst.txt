@@ -133,6 +133,27 @@
 	git clone https://e.coding.net/weidongshan/linux/doc_and_source_for_drivers.git
 
 
+2.8 LVGL专题视频教程(可选)
+******************************************************************************
+
+- 配套资料：
+
+  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1wlw_jkrGBi1-LHfVVErEQQ?pwd=root    密码： root
+
+- 视频教程：
+  
+  - ``100ASK_IMX6ULL`` LVGL入门教程+进阶项目教程
+  
+    - 在线学习方式1： https://www.bilibili.com/video/BV1Xa41197uh
+    - 在线学习方式2： TODO
+
+  - LVGL通用基础教程：
+
+    - 在线学习方式1： https://www.100ask.net/detail/p_61c5a317e4b0cca4a4e8b6f1/6
+    - 在线学习方式2： https://www.bilibili.com/video/BV1Ya411r7K2
+
+
+
 3. 产品图片
 ##########################
 
@@ -178,7 +199,7 @@
 
 - 售后问题：
 
-  - 论坛：http://bbs.100ask.net
+  - 交流社区：https://forums.100ask.net
   
 - 讨论群
 

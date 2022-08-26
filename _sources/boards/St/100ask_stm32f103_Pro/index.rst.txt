@@ -100,7 +100,7 @@
   
 - 售后问题：
 
-  - 论坛：http://bbs.100ask.net
+  - 交流社区：https://forums.100ask.net
   
 - 讨论群
 

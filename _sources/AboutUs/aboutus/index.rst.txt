@@ -25,7 +25,7 @@
 
 - 百问网官方wiki：http://wiki.100ask.org
 
-- 百问网官方论坛：http://bbs.100ask.net
+- 百问网官方交流社区：https://forums.100ask.net
 
 - 百问网官网：http://www.100ask.net
 
