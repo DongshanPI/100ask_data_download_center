@@ -17,7 +17,7 @@
 
 - 开发板配套资料
 
-  - ``百度云网盘`` :download:`链接<>`： https://pan.baidu.com/s/1fi8HzQOP8yjOQccIPu-MxA?pwd=86a9  密码： 86a9
+  - ``百度云网盘`` :download:`链接<>`： https://pan.baidu.com/s/13QkmNmnbxuaXv1FbgsUGHg?pwd=mm32  密码： mm32
 
 
 3. 产品图片
@@ -53,7 +53,7 @@
 ##########################
 
 - 售前问题：
-  - 阿里旺旺： https://100ask.taobao.com 上淘宝直接一对一咨询技术
+  - 淘宝：https://100ask.taobao.com 上淘宝直接一对一咨询技术
   
 - 售后问题：
 
