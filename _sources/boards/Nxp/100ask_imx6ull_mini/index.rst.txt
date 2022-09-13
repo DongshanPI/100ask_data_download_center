@@ -23,7 +23,7 @@
 
 - 开发板配套资料：
 
-  - ``百度网盘`` 链接：https://pan.baidu.com/s/1SWI8OuVBiKn9hhTl7XtXtA 密码：root
+  - ``百度网盘`` 链接：https://pan.baidu.com/s/152iGsXHYt0mi1lO5VgFdHw?pwd=root  密码：root
 
 2.2 在线视频与配套资料(入门)：``全系列Linux教程``
 ****************************************************
