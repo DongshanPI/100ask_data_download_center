@@ -33,19 +33,20 @@
    :caption: 百问网所有开发板
    
    boards/MindMotion/pitaya_lite/index
+   boards/Allwinner/D1-H/index
    boards/Allwinner/T113/index
    boards/St/100ask_stm32f103_mini/index 
    boards/St/100ask_stm32f103_Pro/index 
    boards/St/100ask_stm32mp157_pro/index 
    boards/Nxp/100ask_imx6ull_pro/index
    boards/Nxp/100ask_imx6ull_mini/index
-   boards/Sim/qemu/index
    boards/Ti/100ask_am335x/index
    boards/Ti/am335x_core/index
    boards/Samsung/jz2440/index
    boards/Samsung/tiny4412/index
    boards/Rockchip/firefly-rk3288/index
    boards/Rockchip/firefly-roc-rk3399-pc/index
+   boards/Sim/qemu/index
 
 .. toctree::
    :maxdepth: 2
