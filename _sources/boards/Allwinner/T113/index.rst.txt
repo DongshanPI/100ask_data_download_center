@@ -5,25 +5,36 @@
 1. 导学
 ##########################
 - `⭐视频介绍与导学(新同学请先点击这里)`_
-- `微力同步使用教程`_
 - `GIT下载简明教程`_
 - `百度网盘方式下载资料教程`_
 
 
 .. _⭐视频介绍与导学(新同学请先点击这里): https://www.bilibili.com/video/BV1oz4y1C7jK
-.. _微力同步使用教程: http://download.100ask.org/tools/Software/BtsyncUserGuide/btsync_user_guide.html
 .. _GIT下载简明教程: http://download.100ask.org/tools/Software/git/how_to_use_git.html
 .. _百度网盘方式下载资料教程: http://wiki.100ask.org/BeginnerLearningRoute#.E7.99.BE.E5.BA.A6.E7.BD.91.E7.9B.98.E4.BD.BF.E7.94.A8.E6.95.99.E7.A8.8B
 
-:: 
-   
-   如果发现百度网盘地址失效，或者因为文件太多而无法保存时，请使用 微力同步 进行下载
    
 2. 视频教程与配套资料
 ##########################
 
-2.1 ``100ASK_T113`` LVGL专题视频教程
-**************************
+2.1 ``100ASK_T113`` 嵌入式Linux快速入门专题教程
+****************************************************
+
+- 配套资料：
+
+  - 开发板专题资料 ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1xvIUKFiZx8tV6-dBKZ5qcQ?pwd=root   密码： root
+  - 课堂源码资料： git clone https://e.coding.net/weidongshan/01_all_series_quickstart.git
+
+- 视频教程：
+  
+  - ``100ASK_T113`` 嵌入式Linux快速入门专题视频教程观看
+  
+    - 在线学习方式1： https://www.100ask.net/all/3113742/7910943
+    - 在线学习方式2： https://space.bilibili.com/275908810/channel/seriesdetail?sid=1714177
+
+
+2.2 ``100ASK_T113`` LVGL专题教程
+****************************************************
 
 - 配套资料：
 
