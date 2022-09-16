@@ -17,7 +17,9 @@
 
 - 开发板配套资料
 
-  - ``百度云网盘`` :download:`链接<>`： TODO  密码： root
+  - ``DShan-ESP-S3_Arduino学习资料`` :download:`链接<>`： TODO  密码： root
+  - ``DShan-ESP-S3_ESP-IDF学习资料`` :download:`链接<>`： TODO  密码： root
+  - ``DShan-ESP-S3_MicroPython学习资料`` :download:`链接<>`： TODO  密码： root
 
 
 3. 产品图片
