@@ -22,7 +22,7 @@
 
 - 开发板配套资料：
 
-  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1HXaJC-3a2kEvlpd0wIxbiw?pwd=root   密码：root
+  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1bFgKNm5616DPd8zb7zv5wQ?pwd=root   密码：root
  
 2.2 ``全系列Linux教程``：在线视频与配套资料(入门)
 ****************************************************

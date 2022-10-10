@@ -135,7 +135,7 @@
 
 - 配套资料：
 
-  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1cmq2UPx4X2UyrQlgw9hSvw?pwd=root     密码： root
+  - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1Gnh9G8a05LSgHYlohyl93Q?pwd=root     密码： root
 
 - 视频教程：
   
