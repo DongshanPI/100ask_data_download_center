@@ -32,8 +32,8 @@
    :maxdepth: 2
    :caption: 百问网所有开发板
    
+   boards/Espressif/DShanMCU-Mio/index
    boards/MindMotion/pitaya_lite/index
-   boards/ESP32/DShanESP32-S3/index
    boards/Allwinner/D1-H/index
    boards/Allwinner/T113/index
    boards/St/100ask_stm32f103_mini/index 
