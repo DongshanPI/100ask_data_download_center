@@ -29,12 +29,12 @@
 
 .. _pic_major_DShanMCU-Mio(澪):
 
-.. figure:: https://forums.100ask.net/uploads/default/original/2X/a/ab36f2c93141cfbf2620d3fea4ef5978bf37ba9f.jpeg
+.. figure:: https://forums.100ask.net/uploads/default/optimized/2X/9/969828ab24b370b662dcc8be7f226c220e9b80de_2_622x500.jpeg
    
   `DShanMCU-Mio(澪)开发板`_
 
 
-.. DShanMCU-Mio(澪)开发板:  https://item.taobao.com/item.htm?id=683875901407
+.. _DShanMCU-Mio(澪)开发板:  https://item.taobao.com/item.htm?id=683875901407
 
 4. 购买方式
 ##########################
