@@ -25,6 +25,7 @@
   - ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1bFgKNm5616DPd8zb7zv5wQ?pwd=root   密码： root
 
 - 实验班配套资料：
+
   - 跟上面的网盘资料只有"02_开发工具/100ask-vmware_ubuntu18.04"不一样
   - 实验班的虚拟机里装好了vscode、下载好了Linux源码
   - 实验班课程正在进行, 欢迎加QQ群 341014981
