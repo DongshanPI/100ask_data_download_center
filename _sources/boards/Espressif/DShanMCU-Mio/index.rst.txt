@@ -36,6 +36,18 @@
 
 .. _DShanMCU-Mio(澪)开发板:  https://item.taobao.com/item.htm?id=683875901407
 
+
+- DShanMCU-Mio(澪)引脚布局:
+
+.. _pic_major_DShanMCU-Mio(澪)引脚布局:
+
+.. figure:: https://forums.100ask.net/uploads/default/optimized/2X/e/e07265fc55a140d6dce47970b2ff4f1242fc9232_2_517x369.jpeg
+   
+  `DShanMCU-Mio(澪)引脚布局`_
+
+
+.. _DShanMCU-Mio(澪)引脚布局:  https://item.taobao.com/item.htm?id=683875901407
+
 4. 购买方式
 ##########################
 
