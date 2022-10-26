@@ -41,7 +41,7 @@
 
 .. _pic_major_DShanMCU-Mio(澪)引脚布局:
 
-.. figure:: https://forums.100ask.net/uploads/default/optimized/2X/e/e07265fc55a140d6dce47970b2ff4f1242fc9232_2_517x369.jpeg
+.. figure:: https://forums.100ask.net/uploads/default/original/2X/e/e07265fc55a140d6dce47970b2ff4f1242fc9232.jpeg
    
   `DShanMCU-Mio(澪)引脚布局`_
 
