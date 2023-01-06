@@ -35,6 +35,7 @@
    boards/Espressif/DShanMCU-Mio/index
    boards/MindMotion/pitaya_lite/index
    boards/Allwinner/D1-H/index
+   boards/Allwinner/D1s/index
    boards/Allwinner/T113/index
    boards/St/100ask_stm32f103_mini/index 
    boards/St/100ask_stm32f103_Pro/index 
