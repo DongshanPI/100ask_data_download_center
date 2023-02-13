@@ -28,7 +28,11 @@
 2.2 RISC-V 体系结构编程与实践_基于百问网 Allwinner D1s 的学习指南
 ****************************************************************
 
-GIT仓库(文档和源码)：https://gitee.com/weidongshan/riscv_programming_practice
+- 配套资料：
+
+  - D1s课程配套通用资料 ``百度云网盘`` :download:`链接<>`：https://pan.baidu.com/s/1KQHHF8YsKWT9_jUj_7Jmqg?pwd=pgri   密码： pgri
+
+- GIT仓库(文档和源码)：https://gitee.com/weidongshan/riscv_programming_practice
 
 3. 产品图片
 ##########################
