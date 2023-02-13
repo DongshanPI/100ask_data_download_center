@@ -25,6 +25,11 @@
 - 学习文档：https://dongshanpi.com/DongshanPI-D1s/01-BoardIntroduction
 
 
+2.2 RISC-V 体系结构编程与实践_基于百问网 Allwinner D1s 的学习指南
+****************************************************************
+
+GIT仓库(文档和源码)：https://gitee.com/weidongshan/riscv_programming_practice
+
 3. 产品图片
 ##########################
 
