@@ -24,8 +24,14 @@
 
 - 学习文档：https://dongshanpi.com/DongshanPI-D1s/01-BoardIntroduction
 
+2.2 RISC-V架构与硬件模块编程
+****************************************************************
 
-2.2 RISC-V 体系结构编程与实践_基于百问网 Allwinner D1s 的学习指南
+- GIT地址(录制视频时写的文档、源码(无法直接打开链接，用git命令下载)：
+
+  - git clone https://e.coding.net/weidongshan/noos/doc_and_source_for_mcu_mpu.git
+
+2.3 RISC-V 体系结构编程与实践_基于百问网 Allwinner D1s 的学习指南
 ****************************************************************
 
 - 配套资料：
