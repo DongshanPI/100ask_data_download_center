@@ -32,6 +32,7 @@
    :maxdepth: 2
    :caption: 百问网所有开发板
    
+   boards/Renesas/DShanMCU-RA6M5/index
    boards/Espressif/DShanMCU-Mio/index
    boards/MindMotion/pitaya_lite/index
    boards/Allwinner/D1-H/index
