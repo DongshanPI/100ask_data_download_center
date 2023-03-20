@@ -23,7 +23,7 @@
 
 - 开发板配套资料
 
-  - ``百度云网盘`` :download:`链接<>`：-- 密码：root
+  - ``百度云网盘`` :download:`链接<>`：链接：https://pan.baidu.com/s/1-Czbv-3eRxsAz6USxyoTyA?pwd=root 密码：root
 
 
 3. 产品图片
@@ -37,7 +37,7 @@
    
   `DShanMCU-RA6M5 开发板实物图正面`_
   
-.. _DShanMCU-RA6M5 开发板实物图正面: https://item.taobao.com/item.htm?id=676044382014
+.. _DShanMCU-RA6M5 开发板实物图正面: https://100ask.taobao.com
 
 
 4. 购买方式
@@ -45,9 +45,9 @@
 
 - 开发板：
 
-  - 天猫：https://detail.tmall.com/item.htm?id=638105716849
+  - 天猫：-
   
-  - 淘宝：https://item.taobao.com/item.htm?id=676044382014
+  - 淘宝：-
 
 - 视频：
 
@@ -60,8 +60,7 @@
   - 微信小程序或APP学习
   
   .. figure:: http://photos.100ask.net/100ask/aboutus/100ASK_Applets.jpg
-   
-  
+
 
 
 5. 交流答疑
@@ -73,12 +72,6 @@
 - 售后问题：
 
   - 交流社区：https://forums.100ask.net
-  
-- 讨论群
-
-  - 学习交流微信群：http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4
-  
-  - 学习交流QQ群：  http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4
 
 - 投诉：
 
